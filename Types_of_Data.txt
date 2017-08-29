@@ -1,1 +1,5 @@
 Types of Data:
+1. Patient history
+2. Patient information
+3. Frequency of refill
+4. 
