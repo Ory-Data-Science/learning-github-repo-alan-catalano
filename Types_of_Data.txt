@@ -6,5 +6,4 @@ Types of Data:
 5. Insurance Information
 6. Pharmacy stock numbers - In-pharmacy stock numbers on RX
 7. Physician Information
-8. Controlled Waste Information
-9. Transaction Data
+8. Transaction Data
