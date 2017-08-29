@@ -1,10 +1,10 @@
 Types of Data:
-1. Patient history
-2. Patient information
-3. Frequency of refill
-4. Drug Information
+1. Patient history - RX history, allergies
+2. Patient information - Name, birthday, address, phone, email
+3. Frequency of refill - Do they pickup? How often? Drug Abuse? What are they getting?
+4. Drug Information - RX ID, Dosage
 5. Insurance Information
-6. Pharmacy stock numbers
-7. Physician information
-8. Controlled Waste
+6. Pharmacy stock numbers - In-pharmacy stock numbers on RX
+7. Physician Information
+8. Controlled Waste Information
 9. Transaction Data
