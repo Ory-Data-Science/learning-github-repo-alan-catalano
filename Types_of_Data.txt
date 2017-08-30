@@ -7,3 +7,4 @@ Types of Data:
 6. Pharmacy stock numbers - In-pharmacy stock numbers on RX
 7. Physician Information
 8. Transaction Data
+9. Customer Satisfaction - How often was a customer happy with service provied?
